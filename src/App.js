@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch  } from 'react-router-dom';
+import { HashRouter, Route, Switch  } from 'react-router-dom';
 import PlaIndex from './components/pla-index';
 import PlaLogin from './components/user-login';
 import NewExperiment from './components/new-experiment';
@@ -12,7 +12,7 @@ import WorkStation from './components/work-station';
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Switch>
           <Route path="/login" component={PlaLogin}></Route>
           <Route path="/index" component={PlaIndex}></Route>
@@ -23,7 +23,7 @@ function App() {
           <Route path="/workstation" component={WorkStation}></Route>
           <Route exact path="/" component={PlaIndex}></Route>
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

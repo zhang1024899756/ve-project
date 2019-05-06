@@ -2,6 +2,7 @@
   "name": "ve_project",
   "version": "0.1.0",
   "private": true,
+  "homepage":"./",
   "dependencies": {
     "antd": "^3.17.0",
     "babel-plugin-import": "^1.11.0",
