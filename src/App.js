@@ -14,8 +14,9 @@ function App() {
     <div>
       <BrowserRouter>
         <Switch>
-          {/*<Route path="/login" component={PlaLogin}></Route>*/}
-          <Route path="/" component={PlaIndex}></Route>
+          <Route exact path="/" component={PlaIndex}></Route>
+          <Route path="/login" component={PlaLogin}></Route>
+          <Route path="/index" component={PlaIndex}></Route>
           <Route path="/experdetails/:id" component={ExperDetails}></Route>
           <Route path="/experimentnew" component={NewExperiment}></Route>
           <Route path="/componentnew" component={NewComponent}></Route>
