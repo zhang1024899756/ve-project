@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="194">
+              <caret line="14" column="82" lean-forward="true" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="298" />
+    <option name="x" value="834" />
+    <option name="y" value="206" />
     <option name="width" value="1236" />
     <option name="height" value="782" />
   </component>
@@ -146,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557137587814</updated>
       <workItem from="1557137588942" duration="247000" />
-      <workItem from="1557143148104" duration="11220000" />
+      <workItem from="1557143148104" duration="11964000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1557153484863</created>
@@ -173,10 +173,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11467000" />
+    <option name="totallyTimeSpent" value="12211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="298" width="1236" height="782" extended-state="0" />
+    <frame x="581" y="215" width="1236" height="782" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.218107" />
@@ -542,8 +542,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="194">
+          <caret line="14" column="82" lean-forward="true" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
         </state>
       </provider>
     </entry>
