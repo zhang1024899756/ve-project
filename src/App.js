@@ -14,7 +14,6 @@ function App() {
     <div>
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={PlaIndex}></Route>
           <Route path="/login" component={PlaLogin}></Route>
           <Route path="/index" component={PlaIndex}></Route>
           <Route path="/experdetails/:id" component={ExperDetails}></Route>
@@ -22,6 +21,7 @@ function App() {
           <Route path="/componentnew" component={NewComponent}></Route>
           <Route path="/attributenew" component={NewAttribute}></Route>
           <Route path="/workstation" component={WorkStation}></Route>
+          <Route exact path="/" component={PlaIndex}></Route>
         </Switch>
       </BrowserRouter>
     </div>
